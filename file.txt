@@ -1,5 +1,9 @@
+.DS_Store
+.git
 .gitignore
+README.md
 cat.jpg
+file.txt
 index.js
 node_modules
 package-lock.json
